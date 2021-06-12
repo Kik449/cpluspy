@@ -1,6 +1,6 @@
 # CPLUSPY
 ## Introduction
-This is a basic **windows keylogger** written in c++.                         
+A very basic c++ program to spy the keyboard strokes.                        
 ## Requirements
 **Language:** C++                                   
 **Libraries:** windows.h and fstream.      

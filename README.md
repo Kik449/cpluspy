@@ -13,6 +13,6 @@ char chars_to_detect[] = "SPECIFY THEM HERE"; // This are the chars you wanna de
 ```
 ## Problems
 This program does not distinguish between **keyboard languages**, so it can generate some problems.
-An example could be the letter **Ñ** in Spanish.
+An example could be the letter **Ñ** in Spanish.            
 You can report problems [here](https://github.com/Kik449/schat/issues)!                      
 Don't be afraid of asking questions, if it is posible, I will be answering them.

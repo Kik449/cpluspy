@@ -16,5 +16,3 @@ This program does not distinguish between **keyboard languages**, so it can gene
 An example could be the letter **Ñ** in Spanish.            
 You can report problems [here](https://github.com/Kik449/schat/issues)!                      
 Don't be afraid of asking questions, if it is posible, I will be answering them.
-## Update
-In the next days I will be working to improve the keylogger to detect ALTGR and SHIFT keystrokes and adding different keyboard layout to the program.
